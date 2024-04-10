@@ -1,0 +1,39 @@
+- BROWSING FUNCTIONALITIES:
+
+Google Search
+Play songs on YouTube
+Opens specified website
+Getting Internet Speed
+Google maps (Open specific location and find distance between two locations)
+Sending Gmail
+Sending WhatsApp message
+Wikipedia
+
+- SYSTEM OPERATIONS:
+
+Select text, delete text, copy text, paste text, new file, save.
+New tab, close tab, switch window, close window, minimize window, maximize window.
+Get system stats
+System Info
+Open system app
+Take a note and save it
+Telling time
+Change volume
+Change Brightness
+Take a Screenshot and save it
+Pause and Resume
+Change Desktop background
+Basic mathematical calculations
+Shutdown, Sleep, Restart, Hibernate etc,
+Empty Recycle bin
+Showing chat history
+
+- API FUNCTIONALITIES:
+
+Generating an image
+General questions from web
+Telling top news headlines
+Telling Jokes
+Telling weather report at our current city
+Telling popular web series or movies
+
